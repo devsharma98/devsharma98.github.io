@@ -1,22 +1,22 @@
 {
   "frame": {
     "version": "1",
-    "name": "Color Bomb",
+    "name": "Piano Tiles",
     "iconUrl": "https://devsharma98.github.io/icon.png",
     "homeUrl": "https://devsharma98.github.io/",
     "splashImageUrl": "https://devsharma98.github.io/splash.png",
     "splashBackgroundColor": "#111111",
-    "subtitle": "Tap the right colors and avoid bombs!",
-    "description": "Challenge your reflexes in this fast-paced color game. Tap the correct tiles to score points, earn combos, and avoid black bombs!",
-    "primaryCategory": "game",
+    "subtitle": "Tap the tiles",
+    "description": "A fast-paced rhythm game where you tap only the black piano tiles as the music flows. Stay in tempo, keep your streak alive, and challenge your speed and focus to set a new high score!",
+    "primaryCategory": "games",
     "tags": ["game", "fun", "color", "reflex","piano"],
     "ogImageUrl": "https://devsharma98.github.io/og.png",
-    "tagline": "Test your reflexes and color sense!",
+    "tagline": "Test your reflexes",
     "buttonTitle": "Play Now"
   },
-  "accountAssociation": {
-    "header": "",
-    "payload": "",
-    "signature": ""
+   "accountAssociation": {
+    "header": "eyJmaWQiOjUxOTk2MCwidHlwZSI6ImF1dGgiLCJrZXkiOiIweERlY0VENWYzMWVGRGYxZjNEZjMyNzY1OWQ3ZTRlZDMxNzNDYzkxQUMifQ",
+    "payload": "eyJkb21haW4iOiIifQ",
+    "signature": "0+P+dpt79l0zQeu4RCpWeuwtIpy5uc4WlfyQhiRieuQWRG7QvQilzXU9pC335GS0P4gJ+PX2oXeHYkPoraIsVhw="
   }
 }
