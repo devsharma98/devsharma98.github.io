@@ -14,9 +14,9 @@
     "tagline": "Test your reflexes",
     "buttonTitle": "Play Now"
   },
-   "accountAssociation": {
+  "accountAssociation": {
     "header": "eyJmaWQiOjUxOTk2MCwidHlwZSI6ImF1dGgiLCJrZXkiOiIweERlY0VENWYzMWVGRGYxZjNEZjMyNzY1OWQ3ZTRlZDMxNzNDYzkxQUMifQ",
-    "payload": "eyJkb21haW4iOiIifQ",
-    "signature": "0+P+dpt79l0zQeu4RCpWeuwtIpy5uc4WlfyQhiRieuQWRG7QvQilzXU9pC335GS0P4gJ+PX2oXeHYkPoraIsVhw="
+    "payload": "eyJkb21haW4iOiJkZXZzaGFybWE5OC5naXRodWIuaW8ifQ",
+    "signature": "oDQ0xtE82cUxMxPbJXBmJ6bPX15q2K9YbaPAQEmZ0JdS4XUqdZFIkcNDIoEsGCg9iLDj2bsNuVsOPKbUyPCZ1xw="
   }
 }
